@@ -19,7 +19,10 @@ CircleCI Build & Deploy:
 CircleCi Status:
 <a href="https://postimg.cc/NLL21wdp" target="_blank"><img src="https://i.postimg.cc/gcHybz8F/5.png" alt="5"/></a><br/><br/>
 
+s3 Bucket:
+<a href='https://postimg.cc/G8B0YRSW' target='_blank'><img src='https://i.postimg.cc/G8B0YRSW/10101010.png' border='0' alt='10101010'/></a>
 
-
+RDS:
+<a href='https://postimg.cc/bs0Q8tN5' target='_blank'><img src='https://i.postimg.cc/bs0Q8tN5/202020.png' border='0' alt='202020'/></a>
 
 
