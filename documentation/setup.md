@@ -71,9 +71,9 @@ ElasticBeanstalk Cli:
   
   		  	aws s3 website s3://<BUCKET_NAME>/ --index-document index.html
 
-  * Make sure your AWS website is running using your AWS s3 Link:
+  * Make sure AWS website is running using your AWS s3 Link:
  
-       **http://`BUCKET_NAME`.s3-website-`REGION`.amazonaws.com**
+       **[http://`BUCKET_NAME`.s3-website-`REGION`.amazonaws.com](http://projectdeployment.s3-website-us-east-1.amazonaws.com/home)**
 
   * Change the link to the API into ``` udagram/udagram-frontend/src/environments/ ``` in both files to be:
           apiHost: 'Http://<YOUR_EB_DIRECT_LINK>/api/v0'
