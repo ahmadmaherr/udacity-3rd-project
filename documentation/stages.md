@@ -1,14 +1,7 @@
-[url=https://postimg.cc/VJXCdBKw][img]https://i.postimg.cc/VJXCdBKw/1.png[/img][/url]
-
-[url=https://postimg.cc/FfmJcd6L][img]https://i.postimg.cc/FfmJcd6L/2.png[/img][/url]
-
-[url=https://postimg.cc/cKmtc1q5][img]https://i.postimg.cc/cKmtc1q5/3.png[/img][/url]
-
-[url=https://postimg.cc/wRttHh1S][img]https://i.postimg.cc/wRttHh1S/4.png[/img][/url]
-
-[url=https://postimg.cc/NLL21wdp][img]https://i.postimg.cc/NLL21wdp/5.png[/img][/url]
-
-[url=https://postimg.cc/Q9d9YLhN][img]https://i.postimg.cc/Q9d9YLhN/6.png[/img][/url]
-
-[url=https://postimg.cc/WFYDQ91G][img]https://i.postimg.cc/WFYDQ91G/7.png[/img][/url]
-
+<a href="https://postimg.cc/VJXCdBKw" target="_blank"><img src="https://i.postimg.cc/Sxv71g8n/1.png" alt="1"/></a><br/><br/>
+<a href="https://postimg.cc/FfmJcd6L" target="_blank"><img src="https://i.postimg.cc/pd5QwKYq/2.png" alt="2"/></a><br/><br/>
+<a href="https://postimg.cc/cKmtc1q5" target="_blank"><img src="https://i.postimg.cc/RFr14qg9/3.png" alt="3"/></a><br/><br/>
+<a href="https://postimg.cc/wRttHh1S" target="_blank"><img src="https://i.postimg.cc/2yGnQGr8/4.png" alt="4"/></a><br/><br/>
+<a href="https://postimg.cc/NLL21wdp" target="_blank"><img src="https://i.postimg.cc/gcHybz8F/5.png" alt="5"/></a><br/><br/>
+<a href="https://postimg.cc/Q9d9YLhN" target="_blank"><img src="https://i.postimg.cc/j5zH5K1f/6.png" alt="6"/></a><br/><br/>
+<a href="https://postimg.cc/WFYDQ91G" target="_blank"><img src="https://i.postimg.cc/wMghRZKG/7.png" alt="7"/></a><br/><br/>
